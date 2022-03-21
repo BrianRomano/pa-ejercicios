@@ -1,2 +1,2 @@
 # programacionAvanzada-ejercicios
-Ejercicios realizados durante la cursada de Programación Avanzada (1er cuatrimestre - 2do año).
+Programación Avanzada [2do Año | 1er Cuatrimestre] - Clases, herencia, polimorfismo, interfaces y abstracción. 
